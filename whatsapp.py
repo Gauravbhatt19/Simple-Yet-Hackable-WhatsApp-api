@@ -574,3 +574,4 @@ class WhatsApp:
     # This method is used to quit the browser
     def quit(self):
         self.browser.quit()
+
